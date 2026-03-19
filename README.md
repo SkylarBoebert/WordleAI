@@ -1,0 +1,2 @@
+# WordleAI
+Wordle Playing Itself
